@@ -1,5 +1,5 @@
 {
-    "name": "bubasuma/yii2-simplechat",
+    "name": "kirillemko/yii2-simplechat",
     "description": "A simple chat for your yii2 application",
     "type": "yii2-extension",
     "keywords": ["yii2","extension", "message", "chat", "conversation"],
