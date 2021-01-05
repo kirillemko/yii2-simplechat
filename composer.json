@@ -11,7 +11,9 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0.0"
+        "yiisoft/yii2": "~2.0.0",
+        "bower-asset/twig.js": "0.8.4@stable",
+        "yiisoft/yii2-twig": "^2.4"
     },
     "require-dev":{
       "yiisoft/yii2-bootstrap": "~2.0.0",
